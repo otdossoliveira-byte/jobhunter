@@ -1,7 +1,0 @@
-.env
-__pycache__/
-*.pyc
-database/jobhunter.db
-perfis/perfis.json
-.venv/
-venv/
